@@ -2,7 +2,7 @@ module.exports = {
     title: '昂宝智慧客控系统',
     descirption: '操作文档',
     port: 9000,
-    base: 'hotel-control-docs',
+    base: '/hotel-control-docs/',
     themeConfig: {
         search: false, // 搜索
         navbar: false, // 导航
